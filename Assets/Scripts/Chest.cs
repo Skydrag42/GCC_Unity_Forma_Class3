@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour, IInteractable
 {
-	//public Animator animator;
+	public Animator animator;
 
 	public void Interact()
 	{
-		Debug.Log("Interacting with chest.");
-		//animator.SetBool("open", true);
+		animator.SetBool("isOpen", true);
 	}
 
 }
