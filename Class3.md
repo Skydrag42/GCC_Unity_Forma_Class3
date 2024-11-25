@@ -85,7 +85,7 @@ public class Chest : MonoBehaviour, IInteractable
 }
 ```
 
-Try your scene (don't forget to link the animator reference in your prefab), *et voil‡*!
+Try your scene (don't forget to link the animator reference in your prefab), *et voil√†*!
 
 ## Adding a UI pop up
 
@@ -459,6 +459,6 @@ See you in the next class!
 ---
 *course by Julien Charvet for GCC*
 
-[previous class](https://github.com/Skydrag42/GCC_Unity_Forma_Class2/Class2.md)
+[previous class](https://github.com/Skydrag42/GCC_Unity_Forma_Class2/)
 ||
-[next class](https://github.com/Skydrag42/GCC_Unity_Forma_Class4/Class4.md)
+[next class](https://github.com/Skydrag42/GCC_Unity_Forma_Class4/)
